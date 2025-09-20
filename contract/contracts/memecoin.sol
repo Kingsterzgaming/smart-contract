@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: CRUST-MEME-CORE-License
 pragma solidity >=0.5.0 <0.9.0;
 import "./memecoin_stuff/burning.sol";
 
@@ -61,5 +61,12 @@ function transfer(address recipient, uint256 amount) public onlyOwner {
     emit Transfer(msg.sender, recipient, amount);
 
 }
-    
+ function token_transaction(address recipient, uint256 amount) public {
+    require(Balances[msg.sender] >= amount, "Insufficient balance");
+    Balances[msg.sender] -= amount;
+    Balances[recipient] += amount;
+    emit Transfer(msg.sender, recipient, amount); 
+    }
+
+
 }

@@ -1,0 +1,19 @@
+CRUST MEME CORE License v0
+
+Copyright (c) 2025 Prateek Chauhan
+Contact: prateekchauhan948@gmailcom
+
+1. Ownership and Rights
+The project owner is Prateek Chauhan. All rights are reserved unless explicitly granted in writing by the owner.
+
+2. Royalty Obligation
+Any commercial, financial, or revenue-generating use of this software requires a royalty payment of 50% of gross revenue, payable to the project owner for the lifetime of the project.
+
+3. Unauthorized Use
+Any use of this software without written permission and compliance with the royalty obligation shall subject the infringer to severe fines, penalties, and legal action as determined by the project owner.
+
+4. Liability Disclaimer
+This software is provided "as is," without warranty of any kind, express or implied. The project owner shall not be held liable for any damages, losses, or misuse arising from its use.
+
+5. Jurisdiction
+Any disputes arising from or related to this license shall be subject to the exclusive jurisdiction of the State Courts of India.

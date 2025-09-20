@@ -1,0 +1,64 @@
+Custom Exclusive License — CRUST MEME CORE v1.0
+
+Copyright (c) 2025 Prateek Chauhan  
+All rights reserved.
+
+1.  DEFINITIONS
+1.1 "Owner" means Prateek Chauhan, the copyright holder and licensor of the Software.
+1.2 "Software" means the source code, binaries, documentation, images, designs, assets, and other materials delivered with or as part of this repository/project titled CRUST MEME CORE.
+1.3 "Use" means any copying, distribution, modification, public display, incorporation, sublicensing, or deployment of all or portions of the Software, whether for commercial or non-commercial purposes.
+1.4 "Authorized Use" means Use by a third party pursuant to a written license or permission granted by the Owner.
+1.5 "Unauthorized Use" means any Use of the Software without a written license or permission from the Owner.
+1.6 "Gross Revenue" means the total revenue, income, receipts, or other monetary consideration received by a party from or attributable to products, services, projects or other offerings that incorporate, derive from, or are created using the Software, before any deductions.
+
+2.  GRANT OF RIGHTS
+2.1 No rights are granted by the Owner to third parties except as expressly provided in a separate, signed written license from the Owner.
+2.2 For clarity: without a written license, all rights are reserved to the Owner and any Use is Unauthorized Use.
+
+3.  ROYALTIES FOR UNAUTHORIZED USE
+3.1 If a third party engages in Unauthorized Use and the Owner elects to permit continued Use rather than seek immediate injunctive relief, the third party shall owe the Owner a royalty equal to fifty percent (50%) of Gross Revenue derived from any product, service, application, or offering that incorporates or is derived from the Software.
+3.2 Royalties are payable for the lifetime of the product, service, or offering (i.e., for so long as the product or offering generates revenue), unless otherwise agreed in a subsequent written instrument signed by the Owner.
+3.3 Payment terms, accounting, and reporting requirements shall be set by the Owner in writing; absent such terms, royalties shall be calculated and paid quarterly within thirty (30) days of the end of each quarter, accompanied by reasonable supporting documentation.
+
+4.  INJUNCTIVE RELIEF, DAMAGES, AND PENALTIES
+4.1 Unauthorized Use shall entitle the Owner to immediate injunctive relief, including but not limited to removal, takedown, or cessation of distribution, without prejudice to the Owner’s right to monetary remedies.
+4.2 In addition to royalties owed under Section 3, an infringer shall be liable to the Owner for:
+    (a) All unpaid royalties due and owing;
+    (b) Interest on unpaid amounts at the lesser of 1.5% per month or the maximum rate permitted by applicable law, from the date the royalties became due until paid; and
+    (c) Liquidated damages equal to two (2) times the unpaid royalties (or such greater amount as proven at trial), to compensate for willful infringement and harm to the Owner.
+4.3 The Owner is also entitled to recover reasonable attorneys’ fees, costs, and expenses incurred to enforce this License.
+
+5.  PERMITTED LICENSES
+5.1 The Owner may, in its sole discretion, grant Authorized Use under separate written license terms which may include different royalty rates, fixed fees, revenue share arrangements, or other conditions.
+
+6.  NO WARRANTIES; LIMITATION OF LIABILITY
+6.1 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+6.2 IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM OR IN ANY WAY RELATED TO THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+6.3 THE OWNER’S TOTAL AGGREGATE LIABILITY FOR ANY CLAIM ARISING OUT OF OR RELATING TO THIS LICENSE SHALL NOT EXCEED THE AMOUNT OF ACTUAL ROYALTIES PAID TO THE OWNER IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM.
+
+7.  MORAL AND ETHICAL RESTRICTIONS
+7.1 Use of the Software in ways that are unlawful, that facilitate fraud, violence, or violate public policy are strictly prohibited.
+
+8.  ATTRIBUTION
+8.1 Unless otherwise agreed in writing, any Authorized Use must include visible attribution to the Owner in the product documentation or user interface in a form reasonably requested by the Owner (for example: "Contains CRUST MEME CORE by Prateek Chauhan").
+
+9.  TERMINATION
+9.1 The Owner may terminate any license or permission immediately upon written notice if the licensee breaches any material term and fails to cure within fourteen (14) days after written notice.
+9.2 Upon termination, any rights granted under such license shall revert to the Owner and the licensee must cease all Use and, at Owner’s direction, destroy or return distributed copies.
+
+10.  GOVERNING LAW AND VENUE
+10.1 This License is governed by the laws of India, without regard to conflict of laws principles.
+10.2 The parties submit to the exclusive jurisdiction of the HIGH Court for disputes arising under this License.
+
+11.  MISCELLANEOUS
+11.1 Severability: If any provision hereof is held invalid, the remaining provisions shall remain in full force and effect.
+11.2 Entire Agreement: This License constitutes the entire agreement between the parties with respect to the Software and supersedes all prior agreements.
+11.3 Modification: Any modification of this License must be in a written instrument signed by the Owner.
+
+CONTACT
+For permissions, licensing inquiries, or to request a commercial license, contact:
+Prateek Chauhan  
+prateekchauhan948@gmail.com  
+
+
+END OF LICENSE
