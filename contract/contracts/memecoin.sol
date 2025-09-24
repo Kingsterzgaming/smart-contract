@@ -4,7 +4,6 @@ pragma solidity >=0.5.0 <0.9.0;
 
 contract Memecoin { 
   address owner;
-  string message;
   string _name = "Memecoin";
   string _symbol = "MEME";
   uint8 _decimal = 18;
